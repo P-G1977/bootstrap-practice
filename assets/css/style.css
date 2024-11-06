@@ -19,6 +19,7 @@ h1, h2 {
     color: #184f63; /* Dark Blue */
 }
 
+
 /* About section */
 
 #about {
@@ -35,4 +36,13 @@ h1, h2 {
 
 #contact {
     background-color: white;
+}
+
+#hero {
+    background-color: #dbdcde;
+    background-image: url("../images/background.webp");
+    background-size: cover;
+    min-height: 500px;
+    background-position: 50% 70%;
+    padding: 5% 7%;
 }
