@@ -24,6 +24,23 @@ h1, h2 {
     border-radius: 0; /* Added repeat class and wildcard to target all child elements in class */
 }
 
+/*.form-change {
+    color: #1f7798;
+    border-color: #1f7798;
+} Unused as this is the form colour in the photo on challenge, so I changed the colour. Not needed in CSS.*/ 
+
+/* buttons */
+
+.custom-button {
+    background-color: #1f7798;
+    border: #1f7798;
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
+
 
 /* About section */
 
